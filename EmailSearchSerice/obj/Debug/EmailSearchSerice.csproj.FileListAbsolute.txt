@@ -1,0 +1,9 @@
+C:\Users\Luke\Desktop\TheCuckening\EmailSearchSerice\EmailSearchSerice\bin\Debug\EmailSearchSerice.exe.config
+C:\Users\Luke\Desktop\TheCuckening\EmailSearchSerice\EmailSearchSerice\bin\Debug\EmailSearchSerice.exe
+C:\Users\Luke\Desktop\TheCuckening\EmailSearchSerice\EmailSearchSerice\bin\Debug\EmailSearchSerice.pdb
+C:\Users\Luke\Desktop\TheCuckening\EmailSearchSerice\EmailSearchSerice\obj\Debug\EmailSearchSerice.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\TheCuckening\EmailSearchSerice\EmailSearchSerice\obj\Debug\EmailSearchSerice.Properties.Resources.resources
+C:\Users\Luke\Desktop\TheCuckening\EmailSearchSerice\EmailSearchSerice\obj\Debug\EmailSearchSerice.csproj.GenerateResource.Cache
+C:\Users\Luke\Desktop\TheCuckening\EmailSearchSerice\EmailSearchSerice\obj\Debug\EmailSearchSerice.exe
+C:\Users\Luke\Desktop\TheCuckening\EmailSearchSerice\EmailSearchSerice\obj\Debug\EmailSearchSerice.pdb
+C:\Users\Luke\Desktop\TheCuckening\EmailSearchSerice\EmailSearchSerice\obj\Debug\EmailSearchSerice.EmailFinder.resources
